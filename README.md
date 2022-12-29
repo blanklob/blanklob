@@ -1,4 +1,4 @@
-![An image of multipe Astornauts building on Shopify.](https://cdn.shopify.com/s/files/1/0584/1223/6853/files/Github_Banner-min.png?v=1672319125)
+![An image of multipe Astornauts building on Shopify.](https://cdn.shopify.com/s/files/1/0584/1223/6853/files/Github_Banner_1_-min.png?v=1672319595)
 
 # 3, 2, 1 Liftoff, Hey 🧑‍🚀 welcome aboard!
 
