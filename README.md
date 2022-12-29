@@ -2,6 +2,6 @@
 
 # 3, 2, 1 Liftoff, Hey 🧑‍🚀 welcome aboard!
 
-> #### Like astronauts build rockets (at least in cartons), I build brands, apps, themes on the Shopify Launchpad. You do the same thing, join my community and lets do it together, after all space is hella lonely.
+> Like astronauts build rockets (at least in cartons), I build brands, apps, themes on the Shopify Launchpad. You do the same thing, join my community and lets do it together, after all space is hella lonely.
 
 
