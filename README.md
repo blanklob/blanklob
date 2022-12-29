@@ -6,8 +6,9 @@ Like astronauts build rockets (at least in carton), I build brands, apps, themes
 
 <img 
     alt="An image of multipe Astornauts building on Shopify." src="https://cdn.shopify.com/s/files/1/0584/1223/6853/files/image.png?v=1672313996" 
-    width="500" 
-    height="auto"
+    width="100%" 
+    height="500"
+    style="object-fit: contain; object-position: bottom;"
 />
 
 
