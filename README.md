@@ -35,7 +35,7 @@
         src="https://cdn.shopify.com/s/files/1/0584/1223/6853/files/Linkedin.svg?v=1672318350">
     </a>
     &nbsp;&nbsp;
-    <a href="https://youtube.com/@blanklob?ref=github-readme" target="_blank">
+    <a href="https://youtube.com/@blanklobdev?ref=github-readme" target="_blank">
         <img alt="Image of Youtube's logo"
         width="72" 
         height="auto" 
